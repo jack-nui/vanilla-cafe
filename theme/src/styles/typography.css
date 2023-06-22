@@ -2,6 +2,17 @@
   https://google-webfonts-helper.herokuapp.com/fonts/lato?subsets=latin
 */
 
+/* vanilla font */
+@font-face {
+  font-family: 'Vanilla';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local(''),
+       url('/assets/fonts/Vanilla.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/Vanilla.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
 /* roboto-serif-600 - latin */
 @font-face {
   font-family: 'Roboto Serif';
