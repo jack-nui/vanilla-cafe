@@ -9,58 +9,58 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: '',
 		items: [
 			{
-				title: 'Landing Page 1',
-				slug: '/landing-pages/landing-1',
+				title: '',
 			},
 			{
-				title: 'Landing Page 2',
-				slug: '/landing-pages/landing-2',
+				title: '',
 			},
-      // {
-			// 	title: 'Landing Page 3',
-			// 	slug: '/landing-pages/landing-3',
-			// },
+			{
+				title: '',
+			},
+			{
+				title: '',
+			},
+		],
+	},	
+	{
+		title: '',
+		items: [
+			{
+				title: '',
+			},
+			{
+				title: '',
+			},
+			{
+				title: '',
+			},
+			{
+				title: '',
+			},
 		],
 	},
 	{
-		title: 'Company',
+		title: 'Vanilla Cafe',
 		items: [
 			{
-				title: 'About',
-				slug: '/company/about',
+				title: 'Menu',
+				slug: '/menu',
 			},
 			{
 				title: 'Blog',
 				slug: '/blog',
 			},
 			{
+				title: 'About Us',
+				slug: '/about',
+			},
+			{
 				title: 'Contact',
 				slug: '/company/contact',
 			},
-		],
-	},
-	{
-		title: 'Theme',
-		items: [
-			{
-				title: 'Get Started',
-				slug: '/theme/get-started',
-			},
-			{
-				title: 'Style Guide',
-				slug: '/theme/style-guide',
-			},
-      {
-        title: 'Theme Setup',
-        slug: '/theme/theme-setup',
-      },
-      {
-        title: 'Customizing Odyssey',
-        slug: '/theme/customizing-odyssey',
-      }
 		],
 	},
 ];
